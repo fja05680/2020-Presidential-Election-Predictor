@@ -1,52 +1,52 @@
 "State","ElectVotes","Population","DWinOdds"
 "California","55","39937500",95
 "Texas","38","29472300",24
-"New York","29","19440500",95
-"Florida","29","21993000",53
-"Pennsylvania","20","12820900",64
+"New York","29","19440500",93
+"Florida","29","21993000",52
+"Pennsylvania","20","12820900",63
 "Illinois","20","12659700",95
-"Ohio","18","11747700",36
-"Michigan","16","10045000",71
-"Georgia","16","10736100",33
+"Ohio","18","11747700",34
+"Michigan","16","10045000",68
+"Georgia","16","10736100",32
 "North Carolina","15","10611900",43
-"New Jersey","14","8936570",94
+"New Jersey","14","8936570",93
 "Virginia","13","8626210",87
-"Washington","12","7797100",94
+"Washington","12","7797100",93
 "Tennessee","11","6897580",5
 "Massachusetts","11","6976600",95
-"Indiana","11","6745350",9
-"Arizona","11","7378490",56
+"Indiana","11","6745350",8
+"Arizona","11","7378490",57
 "Wisconsin","10","5851750",58
 "Missouri","10","6169270",10
 "Minnesota","10","5700670",68
-"Maryland","10","6083120",97
-"South Carolina","9","5210100",8
-"Colorado","9","5845530",90
+"Maryland","10","6083120",96
+"South Carolina","9","5210100",10
+"Colorado","9","5845530",89
 "Alabama","9","4908620",5
 "Louisiana","8","4645180",7
-"Kentucky","8","4499690",6
-"Oregon","7","4301090",93
+"Kentucky","8","4499690",5
+"Oregon","7","4301090",91
 "Oklahoma","7","3954820",4
-"Connecticut","7","3563080",94
+"Connecticut","7","3563080",95
 "Utah","6","3282120",7
-"Nevada","6","3139660",81
+"Nevada","6","3139660",79
 "Mississippi","6","2989260",6
-"Kansas","6","2910360",7
+"Kansas","6","2910360",8
 "Iowa","6","3179850",27
 "Arkansas","6","3039000",6
 "West Virginia","5","1778070",4
-"New Mexico","5","2096640",90
-"Nebraska","5","1952570",5
+"New Mexico","5","2096640",88
+"Nebraska","5","1952570",6
 "Rhode Island","4","1056160",96
-"New Hampshire","4","1371250",73
-"Maine","4","1345790",84
+"New Hampshire","4","1371250",70
+"Maine","4","1345790",80
 "Idaho","4","1826160",5
 "Hawaii","4","1412690",96
-"Wyoming","3","567025",3
-"Vermont","3","628061",98
+"Wyoming","3","567025",4
+"Vermont","3","628061",96
 "South Dakota","3","903027",3
 "North Dakota","3","761723",4
 "Montana","3","1086760",9
-"Delaware","3","982895",96
+"Delaware","3","982895",95
 "Alaska","3","734002",13
-"WashingtonDC","3","705749",98
+"WashingtonDC","3","705749",97
